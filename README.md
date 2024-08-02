@@ -13,7 +13,7 @@ Fánatico de la tecnología y los gadgets, aprovechando una transición laboral 
 
 * :telescope: Recientemente, completé el programa de la profesión de QA Engineer en el BootCamp TripleTen, estoy completamente contento por aplicar mis nuevos conocimientos para ser un Tester QA Manual y poder avanzar con contribuir. :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Hoy en día, se aplicar correctamente las mtodologías de prueba: pruebas manuales, pruebas automatizadas, pruebas de regresión, pruebas funcionales :blue_book: y practicando :computer: con las tecnologías que adquirí como JIRA, Azure DevOps, SQL, Postman, Android Studio, XRay, Git, GitHub con el objetivo principal de evaluar las Aplicaciones Web, Móviles y Interfaces API para una mejor navegación para los usuarios.
 
 * :heartbeat: Me gusta buscar las maneras de llevar por el control de calidad que me impulsa a garantizar los más altos estándares en el desarrollo y entrega de software, así como, descrubrir nuevas técnicas y tecnologías para mejorarlas.
 
@@ -22,6 +22,9 @@ Fánatico de la tecnología y los gadgets, aprovechando una transición laboral 
 * 📞 243 132 2381
 
 * 📧 jesus.0606sc@gmail.com
+
+
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
