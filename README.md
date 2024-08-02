@@ -23,8 +23,15 @@ Fánatico de la tecnología y los gadgets, aprovechando una transición laboral 
 
 * 📧 jesus.0606sc@gmail.com
 
+---
 
+### :hammer_and_wrench: Lenguajes y herramientas :
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
