@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img decoding="async" src="https://www.canva.com/design/DAGMtw-dKTg/IPSGCsAPRmfE0mUNB-ctdg/edit?utm_content=DAGMtw-dKTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="800"/>
-</div>
+
+![Banner de LinkedIn Cabecera Empresa Tecnologia Corporativo Moderno](https://github.com/user-attachments/assets/26385cad-b3f1-446c-90fc-8d6c7c6d6e1c)
 
 <!--
 **urid-sosa/urid-sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
