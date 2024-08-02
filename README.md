@@ -33,5 +33,6 @@ Fánatico de la tecnología y los gadgets, aprovechando una transición laboral 
   </a>
 </p>
 
+### 🔥: Mis estadísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=urid-sosa&theme=dark&background=000000)](https://git.io/streak-stats)
