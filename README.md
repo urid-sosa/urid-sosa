@@ -1,4 +1,6 @@
-![Banner de LinkedIn Cabecera Empresa Tecnologia Corporativo Moderno](https://github.com/user-attachments/assets/26385cad-b3f1-446c-90fc-8d6c7c6d6e1c)
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/user-attachments/assets/26385cad-b3f1-446c-90fc-8d6c7c6d6e1c" width="800"/>
+</div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
 
