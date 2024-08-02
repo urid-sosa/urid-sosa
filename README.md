@@ -29,7 +29,7 @@ Fánatico de la tecnología y los gadgets, aprovechando una transición laboral 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,androidstudio,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,bash" />
   </a>
 </p>
 
