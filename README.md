@@ -13,7 +13,7 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :man_technologist: Sobre mí :
  
 <!--
 **urid-sosa/urid-sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
