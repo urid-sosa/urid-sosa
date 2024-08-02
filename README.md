@@ -11,4 +11,10 @@
  
 Fánatico de la tecnología y los gadgets, aprovechando una transición laboral hacia QA Engineer y arrancando mi trayectoria profesional en esta posición. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
 
+* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+
+* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jesús-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
