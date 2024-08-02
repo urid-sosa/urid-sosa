@@ -2,9 +2,10 @@
   <img decoding="async" src="https://github.com/user-attachments/assets/26385cad-b3f1-446c-90fc-8d6c7c6d6e1c" width="800"/>
 </div>
 
-<center>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
-</center>
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=urid-sosa.urid-sosa&color=00cf00" alt=""/>
  
 <!--
 **urid-sosa/urid-sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
