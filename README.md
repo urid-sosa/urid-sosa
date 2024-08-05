@@ -1,4 +1,5 @@
-![QA Engineer](https://github.com/user-attachments/assets/c8e3f329-6de4-4340-9964-5ca4bee4d517)
+
+
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
 
