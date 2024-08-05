@@ -1,9 +1,6 @@
 ![QA Engineer](https://github.com/user-attachments/assets/c8e3f329-6de4-4340-9964-5ca4bee4d517)
 
-## Visitas
-
-![Contador de Visitas](https://shields.io/badge/dynamic/json?color=informational&label=Visitas&query=value&url=https://api.countapi.xyz/hit/urid-sosa.github.io/visitas)
-
+![Contador de Visitas](https://visitor-badge.glitch.me/badge?page_id=urid-sosa.tu-repositorio)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
 
