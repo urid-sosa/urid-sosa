@@ -6,7 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=urid-sosa&color=blueviolet&style=flat-square)
 </div>
 
----
 <div id="header" align="left">
 <h1>
   ¿Cómo te va? ¡Bienvenidos a mi universo!
