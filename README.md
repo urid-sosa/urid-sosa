@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/urid-sosa/urid-sosa/blob/main/QA%20Engineer.png" width="800"/>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
+<p align="center">
+<a href="https://www.linkedin.com/in/jesusosacortes06/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=urid-sosa&color=blueviolet&style=flat-square)
 </div>
