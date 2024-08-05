@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusosacortes06/)
 
+![](https://komarev.com/ghpvc/?username=urid-sosa&color=blueviolet&style=flat-square)
+
 <h1>
   ¿Cómo te va? ¡Bienvenidos a mi universo!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
